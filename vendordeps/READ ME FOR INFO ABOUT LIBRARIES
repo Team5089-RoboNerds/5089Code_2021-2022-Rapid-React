@@ -1,0 +1,7 @@
+These are the libraries that team 5089 used when compiling this year's code
+
+
+We used the new wpilib, rev robotics library, and the ctre phoenix library
+
+The json files are here so that it makes it easier to replicate/gather the libraries for future use
+
